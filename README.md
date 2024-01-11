@@ -1,6 +1,13 @@
 Esse é meu projeto integrado para conclusão do curso de desenvolvedor fullstack da StackX.
-
 Acesse a aplicação <a href="https://toppizza1.netlify.app">clicando aqui</a>
+
+Essa aplicação é o site de uma pizzaria que recebe pedidos dos clientes.
+O projeto foi desenvolvido considerando:
+
+🎯 Modelagem de Dados
+🎯 Banco de Dados
+🎯 Front-End
+🎯 Back-End
 
 
 Segue abaixo alguns prints da aplicação:
