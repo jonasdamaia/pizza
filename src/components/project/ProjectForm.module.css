@@ -1,0 +1,18 @@
+.form {
+    width: 100%;
+    margin: 2em 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container_a {
+    width: 45%;
+}
+
+.container_b {
+    width: 45%;
+}

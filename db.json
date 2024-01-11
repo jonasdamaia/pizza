@@ -1,0 +1,63 @@
+{
+  "pedidos": [],
+  "tamanhos": [
+    {
+      "id": 100,
+      "name": "PEQUENA"
+    },
+    {
+      "id": 200,
+      "name": "MÉDIA"
+    },
+    {
+      "id": 300,
+      "name": "GRANDE"
+    },
+    {
+      "id": 400,
+      "name": "GIGANTE"
+    }
+  ],
+  "sabores": [
+    {
+      "id": 1,
+      "name": "QUEIJO"
+    },
+    {
+      "id": 2,
+      "name": "CALABRESA"
+    },
+    {
+      "id": 3,
+      "name": "FRANGO"
+    },
+    {
+      "id": 4,
+      "name": "PALMITO"
+    },
+    {
+      "id": 5,
+      "name": "BACON"
+    },
+    {
+      "id": 6,
+      "name": "CHOCOLATE"
+    },
+    {
+      "id": 7,
+      "name": "MORANGO"
+    },
+    {
+      "id": 8,
+      "name": "ABACAXI"
+    },
+    {
+      "id": 9,
+      "name": "LEITE NINHO"
+    },
+    {
+      "id": 10,
+      "name": "CASTANHA"
+    }
+  ]
+}
